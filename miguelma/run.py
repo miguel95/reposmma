@@ -3,6 +3,9 @@
 Created on 19/1/2015
 
 @author: PC30
+
+Miguel Miño Alava    
+Primer Proyecto
 '''
 
 from app import app
